@@ -1,0 +1,21 @@
+{
+  "name": "cra-template-niraj",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nirajn2311/cra-template-niraj.git"
+  },
+  "author": "Niraj Nandish <nirajnandish@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nirajn2311/cra-template-niraj/issues"
+  },
+  "homepage": "https://github.com/Nirajn2311/cra-template-niraj#readme",
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
