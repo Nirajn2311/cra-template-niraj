@@ -1,8 +1,13 @@
 {
   "name": "cra-template-niraj",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "CRA Template which includes TS and Sass",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "typescript",
+    "sass"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Nirajn2311/cra-template-niraj.git"
